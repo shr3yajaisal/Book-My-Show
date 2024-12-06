@@ -1,5 +1,6 @@
 create database bookmyshow;
 
+-- this will help to open the database which we have to use
 use bookmyshow;
 
 create table location (
